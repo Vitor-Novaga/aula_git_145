@@ -1,4 +1,4 @@
-# Fazendo um merge
+# Fazendo uma mudança
 
 # COMO FAZER O PRIMEIRO COMMIT NO MEU REPOSITORIO NO GITHUB #
 
